@@ -1,1 +1,87 @@
-/* Other rules */
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
+/*
+font-family: 'Ubuntu', sans-serif;
+300 - 400 - 500
+*/
+
+/* Global rules */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+.wrapper {
+  width: 50vw;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+a:hover {
+  background-color: white;
+  color: #ff014b;
+  padding: 5px 0;
+  border-radius: 2px;
+}
+h3 {
+  font-weight: 500;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+h4 {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+/* Header */
+header {
+  margin-bottom: 80px;
+  padding: 20px;
+}
+header .wrapper {
+  display: flex;
+  justify-content: center;
+}
+header img {
+  width: 100px;
+}
+/* Section */
+.sub-section {
+  display: flex;
+}
+.sub-section:not(:first-child) {
+  margin-top: 40px;
+}
+.sub-section p {
+  font-weight: 500;
+  margin: auto 0;
+}
+.sub-section span {
+  font-size: 12px;
+  font-weight: 500;
+}
+.red {
+  color: #ff014b;
+  margin-left: 30px;
+}
+.sub-section img {
+  margin: 0 10px 10px 30px;
+  border-radius: 2px;
+}
+
+/* Footer */
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #ff014b;
+  color: white;
+}
+footer p {
+  text-align: center;
+  font-size: 12px;
+}
