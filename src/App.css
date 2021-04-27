@@ -65,9 +65,11 @@ header img {
   font-size: 12px;
   font-weight: 500;
 }
+.sub-section div {
+  width: 100%;
+}
 .red {
   color: #ff014b;
-  margin-left: 30px;
 }
 .sub-section img {
   margin: 0 10px 10px 30px;
