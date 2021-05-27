@@ -1,26 +1,56 @@
-# programme-tv-LeReacteur
+# TV PROGRAM 📺
 
-🗓 April 2021.  
-🪄 Frontend with ♥️ React - Programme TV page.  
-👉🏻 Check [that](https://confident-pare-b5dcd5.netlify.app/)
+🌤 April 2021  
+✨ Frontend - (first ReactJS exercice 🤗)
 
-## Welcome in my school exercice (Programme TV page) 📌
+## 🌈 Overview - Welcome dude
 
-### My work?
+---
 
-To familiarize with the framework React.js. The exercice here, is to cut the code into several components, so as to have a reusable and cleaner code.
+TV program made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.  
+1 screen is available: M6 TV program page.
 
-° App  
--- ° Header  
--- ° Section  
--- ° SubSection
+![TV program web page](src/assets/img/prog-tv-desktop.png)
 
-![Programme TV page desktop](src/assets/img/prog-tv-desktop.png)
+## 👩🏻‍💻 Tasks
 
-## Languages
+---
 
-HTML5, CSS3 & React.js.
+✘ Create components  
+✘ Do integration (CSS and React)  
+✘ Make responsive
 
-See you on the next React.js projects!
+## 📚 Stacks
+
+---
+
+[Javascript](https://www.w3schools.com/js/default.asp)  
+[ReactJS](https://fr.reactjs.org/docs/getting-started.html)  
+[HTML5](https://www.w3schools.com/html/default.asp)  
+[CSS3](https://www.w3schools.com/css/default.asp)
+
+## 🗝 Installation and usage
+
+---
+
+Simple exercice, simple installation.
+
+### 🚙 Running the project
+
+1️. Clone this repository
+
+`git clone https://github.com/manon-boiteau/prog-tv-LeReacteur.git`
+
+`cd prog-tv-LeReacteur`
+
+2️. Install packages
+
+`npm install`  
+or  
+`yarn`
+
+3️. When installation is complete:
+
+`yarn start`
 
 🙏🏻 Thank you @LeReacteur.
