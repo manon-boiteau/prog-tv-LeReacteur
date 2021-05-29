@@ -1,6 +1,6 @@
 # TV PROGRAM 📺
 
-🌤 April 2021  
+⛅️ April 2021  
 ✨ Frontend - (first ReactJS exercice 🤗)
 
 ## 🌈 Overview - Welcome dude
